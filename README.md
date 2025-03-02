@@ -1,5 +1,7 @@
 ```
 bun --bun i
+bun --bun run format
+bun --bun run lint
 bun --bun run build
 ```
 
